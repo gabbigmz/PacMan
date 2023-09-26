@@ -8,7 +8,7 @@ Download the files or make a copy by forking the repository to your GitHub accou
 Open the HTML file in your browser. Add more PacMen every time you select the "Add PacMan" button or change the speed by clicking "Start Game".
 
 ## Roadmap of Future Improvements
-Add fruits that will dissapear when touched by a PacMan.
+To add fruits that will dissapear when touched by a PacMan.
 
 ## License
 MIT License
